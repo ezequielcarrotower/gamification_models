@@ -1,6 +1,6 @@
 <?php
 
-namespace gamification;
+namespace towerhouse;
 
 /**
  * Description of Asset
