@@ -1,0 +1,17 @@
+{
+    "name": "ezequielcarrotower/gamification_models",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ezequielcarrotower/gamification_models.git"
+        }
+    ],
+    "version": "dev-master",
+    "description": "gamification ver 0",
+    "authors": [
+        {
+            "name": "Ezequiel Carro",
+            "email": "ezequielcarrosalle@gmail.com"
+        }
+    ]
+}
