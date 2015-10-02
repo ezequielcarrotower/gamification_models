@@ -1,6 +1,6 @@
 <?php
 
-namespace gamification\models;
+namespace towerhouse;
 
 /**
  * Description of Quest
